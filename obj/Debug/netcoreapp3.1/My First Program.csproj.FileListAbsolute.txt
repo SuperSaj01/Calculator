@@ -1,0 +1,13 @@
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.exe
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.deps.json
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.json
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.dev.json
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.dll
+C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.pdb
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfoInputs.cache
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfo.cs
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.csproj.CoreCompileInputs.cache
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.dll
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.pdb
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.genruntimeconfig.cache
+C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.csprojAssemblyReference.cache
