@@ -1,13 +1,14 @@
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.exe
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.deps.json
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.json
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.dev.json
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.dll
-C:\Users\Sajid\Desktop\My First Program\bin\Debug\netcoreapp3.1\My First Program.pdb
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfoInputs.cache
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfo.cs
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.csproj.CoreCompileInputs.cache
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.dll
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.pdb
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.genruntimeconfig.cache
-C:\Users\Sajid\Desktop\My First Program\obj\Debug\netcoreapp3.1\My First Program.csprojAssemblyReference.cache
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.exe
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.deps.json
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.json
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.runtimeconfig.dev.json
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.dll
+D:\GitHub\Calculator\bin\Debug\netcoreapp3.1\My First Program.pdb
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.csproj.AssemblyReference.cache
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfoInputs.cache
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.AssemblyInfo.cs
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.csproj.CoreCompileInputs.cache
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.dll
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.pdb
+D:\GitHub\Calculator\obj\Debug\netcoreapp3.1\My First Program.genruntimeconfig.cache
