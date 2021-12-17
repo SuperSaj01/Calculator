@@ -11,7 +11,7 @@ namespace My_First_Program
             while(true)
             {
             num1 = Convert.ToDouble(Console.ReadLine());
-
+            Consol
             string method = Console.ReadLine();
 
             if(method != "*" &&  method != "/" && method != "-" && method != "+" )
@@ -42,11 +42,7 @@ namespace My_First_Program
                 result = num1 + num2;
                 Console.Write("\n"+ num1 + num2); 
             }
-            else if(method == "-")
-            {
-                Console.Write("{0} - {1}= ", num1, num2);
-                result = num1 - num2;
-                Console.Write("\n" + (num1 - num2)); 
+  
                 
             }
 
