@@ -6,13 +6,59 @@ namespace My_First_Program
     {
         static void Main(string[] args)
         {
-            int a = 5;
-            int b = 1;
+            double num1, num2;  
+            double result;         
+            while(true)
+            {
+            num1 = Convert.ToDouble(Console.ReadLine());
 
-            Console.Write("{0}{1}", a, b);
+            string method = Console.ReadLine();
 
-            Console.ReadLine();
+            if(method != "*" &&  method != "/" && method != "-" && method != "+" )
+            {
+                Console.WriteLine("Invalid Input Try again");
+                continue;
+            }
 
-        }
-    }
+            num2 = Convert.ToDouble(Console.ReadLine());
+           
+
+
+            if(method == "*")
+            {
+                Console.Write("{0} x {1}= ", num1, num2);
+                result = num1 * num2;
+                Console.Write("\n" + num1 * num2);
+            }
+            else if(method == "/")
+            {
+                Console.Write("{0} ÷ {1}= ", num1, num2);
+                result = num1 / num2;
+                Console.Write("\n"+ num1 / num2); 
+            }
+            else if(method == "+")
+            {
+                Console.Write("{0} + {1}= ", num1, num2);
+                result = num1 + num2;
+                Console.Write("\n"+ num1 + num2); 
+            }
+            else if(method == "-")
+            {
+                Console.Write("{0} - {1}= ", num1, num2);
+                result = num1 - num2;
+                Console.Write("\n" + (num1 - num2)); 
+                
+            }
+
+
+           
+            
+            }
+            
+        }   
+    }        
 }
+
+            
+            
+
